@@ -1,0 +1,18 @@
+.leaflet-container {
+    width: 100vh;
+    height: 80vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+#imagenNasa {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.tituloNasa {
+  text-align:center;
+}
